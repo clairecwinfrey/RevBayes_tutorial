@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+author: "Claire C Winfrey"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r}
+library(devtools)
+install_github("bomeara/geiger-v2")
+```
